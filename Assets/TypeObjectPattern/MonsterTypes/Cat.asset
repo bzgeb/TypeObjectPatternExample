@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Cat
   m_EditorClassIdentifier: 
   StartingHealth: 20
-  Speed: 20
+  BaseSpeed: 20
+  Weaknesses: []

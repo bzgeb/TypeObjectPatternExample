@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Pidgeon
   m_EditorClassIdentifier: 
   StartingHealth: 10
-  Speed: 5
+  BaseSpeed: 5
   Weaknesses:
   - {fileID: 11400000, guid: e32a2e440d43344a09243536d98864ee, type: 2}

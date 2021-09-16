@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Worm
   m_EditorClassIdentifier: 
   StartingHealth: 5
-  Speed: 1
+  BaseSpeed: 1
   Weaknesses:
   - {fileID: 11400000, guid: b04ef7f6d477247669791a51dd9e7011, type: 2}
