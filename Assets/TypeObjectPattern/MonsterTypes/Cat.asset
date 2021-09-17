@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StartingHealth: 20
   BaseSpeed: 20
+  BaseAttack: 20
   Weaknesses: []
